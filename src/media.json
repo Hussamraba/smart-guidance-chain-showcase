@@ -1,0 +1,84 @@
+{
+  "video": true,
+  "duration": "00:56",
+  "journey": "Plan activation & guidance",
+  "screens": [
+    {
+      "file": "landing-desktop.webp",
+      "title": "The journey starts here",
+      "category": "Discover",
+      "description": "REHLA\u2019s destination-led landing experience introduces Jordan through an interactive destination carousel.",
+      "size": "wide"
+    },
+    {
+      "file": "explore-desktop.webp",
+      "title": "A country, ready to explore",
+      "category": "Discover",
+      "description": "Public discovery brings destinations, stays, and dining into one starting point.",
+      "size": "normal"
+    },
+    {
+      "file": "places-desktop.webp",
+      "title": "Find somewhere worth going",
+      "category": "Discover",
+      "description": "Browse real destination records with category, city, and rating filters.",
+      "size": "normal"
+    },
+    {
+      "file": "hotels-desktop.webp",
+      "title": "Discover your next stay",
+      "category": "Discover",
+      "description": "Hotel discovery surfaces stored descriptions, imagery, and ratings. Reservations are outside this prototype.",
+      "size": "normal"
+    },
+    {
+      "file": "restaurants-desktop.webp",
+      "title": "A taste of the journey",
+      "category": "Discover",
+      "description": "Restaurant discovery brings stored dining information and ratings into the travel experience.",
+      "size": "normal"
+    },
+    {
+      "file": "planner-preferences.webp",
+      "title": "A trip shaped around you",
+      "category": "Plan",
+      "description": "Dates, interests, pace, and budget become the starting point for personalized trip alternatives.",
+      "size": "normal"
+    },
+    {
+      "file": "plan-editor.webp",
+      "title": "A blueprint, ready to refine",
+      "category": "Plan",
+      "description": "A genuinely AI-generated saved plan, opened in the actual editor before confirmation and activation.",
+      "size": "normal"
+    },
+    {
+      "file": "active-trip.webp",
+      "title": "The plan becomes a journey",
+      "category": "Plan",
+      "description": "The activated trip connects the itinerary, real place markers, current activities, and progress.",
+      "size": "normal"
+    },
+    {
+      "file": "place-guide.webp",
+      "title": "The stories behind each stop",
+      "category": "Guide",
+      "description": "Actual historical and cultural guidance for the Amman Citadel, generated through the application\u2019s guide service.",
+      "size": "normal"
+    },
+    {
+      "file": "smart-guide.webp",
+      "title": "The next stop, with context",
+      "category": "Guide",
+      "description": "A genuine trip-scoped Smart Guide conversation about the next activity, using live operational trip facts.",
+      "size": "normal"
+    },
+    {
+      "file": "active-trip-mobile.webp",
+      "title": "Your journey, within reach",
+      "category": "Mobile",
+      "description": "The actual activated trip and its progress interface at a mobile viewport.",
+      "size": "mobile"
+    }
+  ]
+}
